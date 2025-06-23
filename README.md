@@ -1,5 +1,5 @@
 # 👋 Aishwarya Nair (she/her)  
-** AI/ML Engineer | Data Scientist **
+**AI/ML Engineer | Data Scientist**
 
 ---
 
