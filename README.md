@@ -1,5 +1,5 @@
 # 👋 Aishwarya Nair (she/her)  
-**Data Scientist | AI/ML Engineer**
+** AI/ML Engineer | Data Scientist **
 
 ---
 
@@ -36,8 +36,8 @@ I build ML systems that solve real-world problems in NLP, automation, and predic
 ---
 
 ## 🔗 Social Links  
-[LinkedIn](https://linkedin.com/in/yourprofile)  
-[Website](https://randolando.me)
+[LinkedIn](https://linkedin.com/in/aishwaryaanair)  
+[Website](https://aishwaryanair.me)
 
 ---
 
